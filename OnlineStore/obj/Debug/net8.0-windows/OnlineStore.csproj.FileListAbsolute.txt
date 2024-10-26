@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\Network_Programming\OnlineStore\OnlineStore\bin\Debug\net8.0-windows\OnlineStore.exe
+C:\Users\admin\source\repos\Network_Programming\OnlineStore\OnlineStore\bin\Debug\net8.0-windows\OnlineStore.deps.json
+C:\Users\admin\source\repos\Network_Programming\OnlineStore\OnlineStore\bin\Debug\net8.0-windows\OnlineStore.runtimeconfig.json
+C:\Users\admin\source\repos\Network_Programming\OnlineStore\OnlineStore\bin\Debug\net8.0-windows\OnlineStore.dll
+C:\Users\admin\source\repos\Network_Programming\OnlineStore\OnlineStore\bin\Debug\net8.0-windows\OnlineStore.pdb
+C:\Users\admin\source\repos\Network_Programming\OnlineStore\OnlineStore\obj\Debug\net8.0-windows\OnlineStore.Login.resources
+C:\Users\admin\source\repos\Network_Programming\OnlineStore\OnlineStore\obj\Debug\net8.0-windows\OnlineStore.Properties.Resources.resources
+C:\Users\admin\source\repos\Network_Programming\OnlineStore\OnlineStore\obj\Debug\net8.0-windows\OnlineStore.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Network_Programming\OnlineStore\OnlineStore\obj\Debug\net8.0-windows\OnlineStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Network_Programming\OnlineStore\OnlineStore\obj\Debug\net8.0-windows\OnlineStore.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Network_Programming\OnlineStore\OnlineStore\obj\Debug\net8.0-windows\OnlineStore.AssemblyInfo.cs
+C:\Users\admin\source\repos\Network_Programming\OnlineStore\OnlineStore\obj\Debug\net8.0-windows\OnlineStore.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Network_Programming\OnlineStore\OnlineStore\obj\Debug\net8.0-windows\OnlineStore.dll
+C:\Users\admin\source\repos\Network_Programming\OnlineStore\OnlineStore\obj\Debug\net8.0-windows\refint\OnlineStore.dll
+C:\Users\admin\source\repos\Network_Programming\OnlineStore\OnlineStore\obj\Debug\net8.0-windows\OnlineStore.pdb
+C:\Users\admin\source\repos\Network_Programming\OnlineStore\OnlineStore\obj\Debug\net8.0-windows\OnlineStore.genruntimeconfig.cache
+C:\Users\admin\source\repos\Network_Programming\OnlineStore\OnlineStore\obj\Debug\net8.0-windows\ref\OnlineStore.dll
