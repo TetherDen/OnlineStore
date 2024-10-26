@@ -15,3 +15,5 @@ C:\Users\admin\source\repos\Network_Programming\OnlineStore\OnlineStore\obj\Debu
 C:\Users\admin\source\repos\Network_Programming\OnlineStore\OnlineStore\obj\Debug\net8.0-windows\OnlineStore.pdb
 C:\Users\admin\source\repos\Network_Programming\OnlineStore\OnlineStore\obj\Debug\net8.0-windows\OnlineStore.genruntimeconfig.cache
 C:\Users\admin\source\repos\Network_Programming\OnlineStore\OnlineStore\obj\Debug\net8.0-windows\ref\OnlineStore.dll
+C:\Users\admin\source\repos\Network_Programming\OnlineStore\OnlineStore\obj\Debug\net8.0-windows\OnlineStore.Forms.Register.Register.resources
+C:\Users\admin\source\repos\Network_Programming\OnlineStore\OnlineStore\obj\Debug\net8.0-windows\OnlineStore.sourcelink.json

@@ -1,5 +1,6 @@
 using System.Windows.Forms;
 using System.Drawing;
+using OnlineStore.Forms.Register;
 
 
 namespace OnlineStore
@@ -40,6 +41,13 @@ namespace OnlineStore
         private void PasswordPictureBox_MouseUp(object sender, MouseEventArgs e)
         {
             PasswordTextBox.UseSystemPasswordChar = true;
+        }
+
+        private void RegisterBtn_Click(object sender, EventArgs e)
+        {
+            Register registerForm = new Register();
+            registerForm.Show();
+            this.Hide();
         }
     }
 }
